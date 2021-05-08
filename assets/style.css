@@ -1,0 +1,30 @@
+:root {
+
+}
+
+* {
+
+}
+
+body {
+    background-color: gray;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 0 0 30%;
+    border: thin;
+    border-style: dashed;
+    border-color: white;
+}
+
+.card h2 {
+    border: thin;
+    border-style: solid;
+    border-color: white;
+}
+
